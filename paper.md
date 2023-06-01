@@ -3,13 +3,10 @@
 
 # Author
 Yuchen Z, University of Manchester
-John, Unknown
+Mirtunjay Kumar, Lightform, University of Manchester, UK
 
 # Introduction
-Something may happen in the world
-
-Jones et al (1998) cinducted several materials
-add another thing
+Something may happen in the world and this world is prettier than before. This was stated by Jones et al (1998). The another statement about the world is that it is fragile. 
 
 A large thing may measured by all means.
 
