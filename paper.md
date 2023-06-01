@@ -2,8 +2,8 @@
 //Aircraft and simulations measurement Something You may understand
 
 # Author
-Yuchen
-John
+Yuchen, University of Manchester
+John, Unknown
 
 # Introduction
 Something may happen in the world
@@ -23,5 +23,5 @@ same things happend.
 # Figures
 Figures go in a draft paper
 
-#Conclusions
+# Conclusions
 We make some fantastic insight of ideas, hope could get more funding.
