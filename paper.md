@@ -2,7 +2,7 @@
 //Aircraft and simulations measurement Something You may understand
 
 # Author
-Yuchen, University of Manchester
+Yuchen Z, University of Manchester
 John, Unknown
 
 # Introduction
