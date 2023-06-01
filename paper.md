@@ -1,5 +1,5 @@
 # Title
-//Aircraft and simulations measurement Something You may understand
+Aircraft and simulation of aircraft navigation
 
 # Author
 Yuchen Z, University of Manchester
