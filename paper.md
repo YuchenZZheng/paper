@@ -18,7 +18,7 @@ We compare models with Smith, 2000.
 same things happend.
 
 # Figures
-Figures go in a draft paper
+Figures go in a draft paper  \('o')/
 
 # Conclusions
 We make some fantastic insight of ideas, hope could get more funding. This is a seconf of the concluson.
