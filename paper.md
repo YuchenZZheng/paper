@@ -15,3 +15,6 @@ A large thing may measured by all means.
 
 # Simulations
 We simulate loads of things, such as transpaort source.
+
+# Methodology
+We compare models with Smith, 2000.
