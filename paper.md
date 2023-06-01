@@ -24,4 +24,4 @@ same things happend.
 Figures go in a draft paper
 
 # Conclusions
-We make some fantastic insight of ideas, hope could get more funding.
+We make some fantastic insight of ideas, hope could get more funding. This is a seconf of the concluson.
